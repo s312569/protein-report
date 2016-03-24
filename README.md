@@ -2,10 +2,6 @@
 
 Protein and peptide reports in csv format from X! Tandem xml result files.
 
-## Installation
-
-Download from http://example.com/FIXME.
-
 ## Usage
 
 Simple program to produce protein and peptide reports in csv format
